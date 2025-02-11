@@ -7,11 +7,16 @@ It is a nice college which is situated in the forests of Palakkad which has mini
 
 
 # BRANCHES
-1.CSE: Onnum parayanilla ;)
-2.ECE : Hostelmates ine arayam.
-3.IT : Collegiln arayam korchpere.
-4.CIVIL :Hostelmates ine arayam
-5.MECH : Hostelmates ine arayam
+1.CSE: 
+  Onnum parayanilla ;).
+2.ECE :
+   Hostelmates ine arayam.
+3.IT :
+   Collegiln arayam korchpere.
+4.CIVIL :
+   Hostelmates ine arayam
+5.MECH :
+   Hostelmates ine arayam
 
 
 
